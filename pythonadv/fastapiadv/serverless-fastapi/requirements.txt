@@ -1,0 +1,2 @@
+FastAPI>=3.9
+Mangum>=3.9
